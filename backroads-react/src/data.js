@@ -1,3 +1,8 @@
+import img1 from "./images/tour-1.jpeg";
+import img2 from "./images/tour-2.jpeg";
+import img3 from "./images/tour-3.jpeg";
+import img4 from "./images/tour-4.jpeg";
+
 export const pageLinks = [
   {
     id: 1,
@@ -57,10 +62,6 @@ export const services = [
   }
 ];
 
-import img1 from "./images/tour-1.jpeg";
-import img2 from "./images/tour-2.jpeg";
-import img3 from "./images/tour-3.jpeg";
-import img4 from "./images/tour-4.jpeg";
 export const tours = [
   {
     src: img1,
